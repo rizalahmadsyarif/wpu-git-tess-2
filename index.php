@@ -10,6 +10,9 @@
 <body>
     <h1>hello dunia</h1>
     <p>leeee</p>
+    <ul>
+        <li>satu</li>
+    </ul>
 
 </body>
 
